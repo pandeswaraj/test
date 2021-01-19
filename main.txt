@@ -7,5 +7,5 @@
 7
 8
 9
-
-There are 9 numbers in this file.
+10
+There are 10 numbers in this file.
